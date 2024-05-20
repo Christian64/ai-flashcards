@@ -7,7 +7,7 @@ export const Header = () => (
     <nav>
       <a
         className="btn btn-sm btn-ghost"
-        href="https://www.github.com/Christian64"
+        href="https://github.com/Christian64/ai-flashcards"
         target="_blank"
       >
         <GithubIcon fill="none" stroke="white" width="22" height="22" />
